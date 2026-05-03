@@ -1,16 +1,7 @@
 {
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "ID": "CP21.260306.017",
-  "BRAND": "google",
-  "DEVICE": "blazer",
-  "FINGERPRINT": "google/blazer_beta/blazer:17/CP21.260306.017/15063635:user/release-keys",
+  "MODEL": "Pixel 9 Pro XL",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 10 Pro",
-  "PRODUCT": "blazer_beta",
-  "RELEASE": "17",
-  "SECURITY_PATCH": "2026-03-05",
-  "DEVICE_INITIAL_SDK_INT": "21",
-  "DEBUG": false,
-  "SDK_INT": "32"
+  "FINGERPRINT": "google/komodo_beta/komodo:17/CP21.260330.008/15199860:user/release-keys",
+  "SECURITY_PATCH": "2026-04-05",
+  "DEVICE_INITIAL_SDK_INT": "34"
 }
