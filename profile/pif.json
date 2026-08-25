@@ -1,7 +1,7 @@
 {
   "MODEL": "Pixel 10 Pro XL",
   "MANUFACTURER": "Google",
-  "FINGERPRINT": "google/mustang_beta/mustang:CANARY/ZP11.260618.005/15760424:user/release-keys",
-  "SECURITY_PATCH": "2026-07-05",
-  "DEVICE_INITIAL_SDK_INT": "34"
+  "FINGERPRINT": "google/mustang_beta/mustang:CANARY/ZP11.260717.006/16004061:user/release-keys",
+  "SECURITY_PATCH": "2026-08-05",
+  "DEVICE_INITIAL_SDK_INT": "32"
 }
